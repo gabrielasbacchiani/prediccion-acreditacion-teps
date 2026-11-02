@@ -1,0 +1,154 @@
+﻿id_estudiante,anio,cuatri,nivel,grupo,rango_edad,sexo,empresa_grupo,sector,turno_laboral,lugar_trabajo,convenio_uom,clases_dictadas_corte,pct_asistencia,pct_asist_electronica,pct_asist_general,pct_ausente_sin_aviso,pct_ausente_con_aviso,licencias_medicas,presente_turno_contrario,pct_tps_entregados,promedio_tps,promedio_1p,materias_1p_menor6,materias_sin_1p,situacion,acredita,motivo_exclusion
+S001,2025,1,3,15:30,26-35,Masculino,Newsan,Producción,Mañana,Otra planta,0,8,0.72,0.63,1.0,0.41,0.0,0,0,0.94,8.1,8.5,0.0,3.0,PROMUEVE N4,1.0,
+S002,2025,1,1,12:30,36-45,Masculino,Otro/sin dato,Vigilancia,Mañana,Rotativo,0,9,0.94,0.67,0.61,0.08,0.0,0,0,1.0,9.3,,0.0,2.0,PROMUEVE N2,1.0,
+S003,2025,1,3,15:30,26-35,Masculino,Otro/sin dato,Producción,Sin dato,Misma planta que el cursado,0,9,0.29,1.0,0.42,0.05,0.04,0,0,,,,0.0,2.0,NIVEL 3,0.0,
+S004,2026,2,4,15:30,46+,Masculino,Newsan,Producción,Tarde,Otra planta,1,20,0.82,0.24,1.0,0.09,0.0,0,0,0.78,8.4,6.5,0.0,0.0,,,en curso (sin resultado todavía)
+S005,2026,1,3,15:30,26-35,Masculino,Newsan,Producción,Mañana,Otra planta,0,7,0.12,0.21,0.26,0.79,0.0,0,0,0.03,9.9,7.9,1.0,6.0,NIVEL 3,0.0,
+S006,2026,1,3,15:30,26-35,Masculino,Empresa vinculada,Vigilancia,Sin dato,Sin dato,0,9,0.7,0.86,0.98,0.26,0.22,0,0,0.77,8.3,6.6,2.0,0.0,PROMUEVE N4,1.0,
+S007,2026,1,3,15:30,18-25,Masculino,Empresa vinculada,Otro/sin dato,Mañana,Otra planta,1,8,0.92,0.8,0.2,0.41,0.2,0,0,0.1,7.2,8.4,0.0,0.0,PROMUEVE N4,1.0,
+S008,2025,1,3,12:30,,Masculino,Newsan,Otro/sin dato,Mañana,Otra planta,1,6,0.46,0.52,0.57,0.0,0.02,0,0,0.63,8.0,,1.0,5.0,NIVEL 3,0.0,
+S009,2025,1,3,12:30,26-35,Masculino,Newsan,Producción,Tarde,Otra planta,0,11,0.49,0.88,0.0,0.33,0.2,0,0,0.72,6.3,4.6,1.0,5.0,NIVEL 3,0.0,
+S010,2026,1,3,15:30,46+,Masculino,Empresa vinculada,Vigilancia,Mañana,Sin dato,0,10,0.52,0.64,0.39,0.53,0.0,0,0,0.94,9.7,6.5,0.0,2.0,PROMUEVE N4,1.0,
+S011,2026,1,3,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Mañana,Otra planta,0,9,0.9,,0.31,0.32,0.0,0,0,0.86,6.3,8.7,0.0,0.0,PROMUEVE N4,1.0,
+S012,2025,1,3,12:30,26-35,Masculino,Newsan,Otro/sin dato,Mañana,Otra planta,0,13,0.27,0.48,0.28,0.57,0.02,0,0,0.0,9.4,5.6,0.0,5.0,NIVEL 3,0.0,
+S013,2025,1,3,15:30,26-35,Femenino,Newsan,Vigilancia,Mañana,Otra planta,1,9,1.0,0.97,1.0,0.0,0.14,0,0,0.91,8.7,8.0,1.0,2.0,PROMUEVE N4,1.0,
+S014,2025,1,3,12:30,46+,Masculino,Newsan,Logística/abastecimiento,Mañana,Otra planta,1,9,0.07,0.99,0.25,0.06,0.07,0,0,0.36,2.0,5.5,1.0,6.0,NIVEL 3,0.0,
+S015,2025,1,3,15:30,18-25,Masculino,Newsan,Vigilancia,Mañana,Misma planta que el cursado,1,10,0.14,,0.24,0.85,0.25,0,0,0.66,7.5,9.1,,6.0,NIVEL 3,0.0,
+S016,2025,1,1,15:30,36-45,Femenino,Empresa vinculada,Producción,Mañana,Rotativo,1,4,0.98,1.0,0.75,0.69,0.09,0,0,0.64,7.7,7.1,0.0,1.0,PROMUEVE N2,1.0,
+S017,2025,1,3,15:30,18-25,Femenino,Newsan,Producción,Tarde,Otra planta,0,8,0.87,0.74,1.0,0.28,0.0,0,0,0.85,7.7,7.4,0.0,2.0,PROMUEVE N4,1.0,
+S018,2026,1,3,15:30,18-25,Masculino,Newsan,Vigilancia,Mañana,Otra planta,0,9,0.88,1.0,0.99,0.0,0.0,0,0,1.0,8.0,9.1,0.0,1.0,PROMUEVE N4,1.0,
+S019,2025,1,3,15:30,36-45,Masculino,Otro/sin dato,Vigilancia,Noche,Sin dato,0,5,0.37,1.0,0.93,0.12,0.0,0,0,0.69,8.3,10.0,0.0,0.0,PROMUEVE N4,1.0,
+S020,2025,1,3,15:30,36-45,Femenino,Empresa vinculada,Logística/abastecimiento,Mañana,Rotativo,0,8,,0.98,,0.29,,0,0,1.0,7.6,8.5,0.0,5.0,PROMUEVE N4,1.0,
+S021,2025,1,3,15:30,26-35,Femenino,Empresa vinculada,Producción,Sin dato,Otra planta,1,9,0.64,0.51,0.63,1.0,0.08,0,0,0.67,,5.9,0.0,5.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S022,2025,1,3,15:30,26-35,Femenino,Newsan,Producción,Mañana,Otra planta,1,16,0.51,0.89,1.0,0.0,0.15,0,0,1.0,8.1,8.1,0.0,0.0,PROMUEVE N4,1.0,
+S023,2025,1,3,15:30,26-35,Femenino,Empresa vinculada,Vigilancia,Mañana,Rotativo,0,6,1.0,,1.0,0.22,0.12,3,0,0.66,7.8,6.7,0.0,2.0,PROMUEVE N4,1.0,
+S024,2025,1,1,12:30,18-25,Masculino,Otro/sin dato,Producción,Mañana,Otra planta,1,9,0.9,0.42,0.18,0.0,0.0,0,0,0.58,7.9,,1.0,6.0,NIVEL 1,0.0,
+S025,2025,1,1,15:30,18-25,Masculino,Otro/sin dato,Vigilancia,Mañana,Otra planta,0,8,0.72,0.67,0.64,0.5,0.06,0,0,0.0,,6.5,2.0,4.0,NIVEL 1,0.0,
+S026,2025,1,3,12:30,46+,,Newsan,Producción,Tarde,Sin dato,1,8,0.08,0.03,1.0,0.84,0.21,0,0,0.74,7.3,,0.0,4.0,NIVEL 3,0.0,
+S027,2025,1,1,12:30,18-25,Masculino,Empresa vinculada,Producción,Mañana,Sin dato,1,9,0.52,,,0.44,0.01,0,0,0.0,7.6,8.2,0.0,3.0,NIVEL 1,0.0,
+S028,2025,1,1,12:30,46+,Femenino,Newsan,Vigilancia,Tarde,Otra planta,0,9,0.53,0.58,0.59,0.44,0.1,0,0,0.77,8.2,8.2,0.0,6.0,PROMUEVE N2,1.0,no inició (sin asistencia hasta el corte)
+S029,2025,1,1,15:30,46+,Masculino,Newsan,Vigilancia,Sin dato,Otra planta,0,16,0.53,0.81,0.96,0.0,0.32,0,0,0.96,9.4,7.6,0.0,0.0,PROMUEVE N2,1.0,
+S030,2025,1,3,15:30,36-45,Masculino,Familiar,Producción,Mañana,Otra planta,0,8,0.73,,0.81,0.25,0.21,0,0,0.98,10.0,8.6,0.0,3.0,PROMUEVE N4,1.0,
+S031,2025,2,4,12:30,36-45,Masculino,Empresa vinculada,Vigilancia,Tarde,Sin dato,1,9,1.0,0.56,1.0,0.05,0.0,0,0,0.9,7.8,3.8,3.0,0.0,EGRESADO,1.0,
+S032,2026,1,3,15:30,18-25,Masculino,Newsan,Producción,Noche,Sin dato,0,9,0.86,1.0,0.29,1.0,0.0,0,0,0.21,3.5,,1.0,6.0,NIVEL 3,0.0,
+S033,2025,1,3,12:30,18-25,Masculino,Newsan,Otro/sin dato,Noche,Otra planta,1,6,0.67,0.78,0.75,0.58,0.0,0,0,1.0,7.3,9.4,1.0,0.0,PROMUEVE N4,1.0,
+S034,2025,1,3,15:30,26-35,Femenino,Otro/sin dato,Producción,Sin dato,Sin dato,0,8,0.38,0.02,0.67,0.33,0.02,0,0,0.49,9.6,4.1,0.0,6.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S035,2025,1,3,12:30,18-25,,Newsan,Producción,Mañana,Rotativo,1,8,0.2,0.01,0.71,0.41,0.0,0,0,0.18,7.1,,1.0,6.0,NIVEL 3,0.0,
+S036,2025,2,2,15:30,36-45,Femenino,Familiar,Producción,Sin dato,Sin dato,1,7,0.79,1.0,0.56,0.57,0.24,0,0,0.82,8.3,7.0,0.0,1.0,PROMUEVE N3,1.0,
+S037,2026,1,3,15:30,46+,Femenino,Newsan,Vigilancia,Mañana,Sin dato,0,9,0.68,1.0,0.93,0.52,0.17,0,0,0.96,9.4,6.4,1.0,0.0,PROMUEVE N4,1.0,
+S038,2025,1,3,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Mañana,Sin dato,0,9,0.59,0.45,0.97,0.23,0.03,0,0,1.0,7.8,6.5,0.0,2.0,PROMUEVE N4,1.0,
+S039,2026,1,3,15:30,,Masculino,Newsan,Producción,Tarde,Misma planta que el cursado,0,16,0.77,0.79,0.3,1.0,0.0,0,0,0.69,7.8,8.9,0.0,5.0,NIVEL 3,0.0,
+S040,2026,2,4,12:30,26-35,Femenino,Empresa vinculada,Vigilancia,Mañana,Otra planta,1,4,1.0,0.14,0.9,0.1,0.05,0,0,0.92,8.7,6.7,0.0,0.0,,,en curso (sin resultado todavía)
+S041,2026,2,4,15:30,18-25,Femenino,Empresa vinculada,Vigilancia,Tarde,Rotativo,0,17,0.86,0.75,0.92,0.17,0.0,0,0,1.0,9.6,7.4,0.0,0.0,,,en curso (sin resultado todavía)
+S042,2026,1,3,15:30,36-45,Masculino,Newsan,Vigilancia,Mañana,Otra planta,0,10,0.69,0.84,0.76,0.05,0.01,0,0,0.78,9.3,7.5,2.0,2.0,PROMUEVE N4,1.0,
+S043,2026,1,3,12:30,36-45,Masculino,Newsan,Vigilancia,Mañana,Sin dato,1,11,0.74,0.73,0.83,0.0,0.02,0,0,0.98,8.1,6.4,0.0,0.0,PROMUEVE N4,1.0,
+S044,2025,1,1,12:30,36-45,Masculino,Newsan,Vigilancia,Mañana,Sin dato,0,8,0.56,0.43,1.0,0.56,0.05,0,0,1.0,7.9,6.9,2.0,0.0,PROMUEVE N2,1.0,
+S045,2025,2,4,15:30,36-45,Femenino,Newsan,Producción,Tarde,Rotativo,1,8,0.47,0.36,0.77,0.0,0.09,0,0,1.0,8.2,8.5,0.0,2.0,EGRESADO,1.0,
+S046,2025,2,2,15:30,46+,Masculino,Empresa vinculada,Otro/sin dato,Mañana,Rotativo,0,9,,1.0,0.49,0.03,0.14,0,0,1.0,7.5,8.1,0.0,5.0,PROMUEVE N3,1.0,
+S047,2025,1,1,15:30,18-25,Masculino,Newsan,Producción,Tarde,Otra planta,0,16,0.39,0.57,0.11,0.99,0.08,0,0,0.04,6.6,7.6,1.0,6.0,NIVEL 1,0.0,
+S048,2025,2,4,15:30,26-35,Masculino,Otro/sin dato,Producción,Sin dato,Sin dato,1,13,0.6,0.81,0.83,0.54,0.25,0,0,,,3.4,0.0,6.0,NIVEL 4,0.0,
+S049,2025,1,1,15:30,26-35,Masculino,Empresa vinculada,Vigilancia,Mañana,Rotativo,1,16,0.97,0.36,1.0,0.4,0.24,0,0,0.18,7.2,8.0,2.0,0.0,PROMUEVE N2,1.0,no inició (sin asistencia hasta el corte)
+S050,2025,2,4,15:30,26-35,Masculino,Empresa vinculada,Vigilancia,Tarde,Otra planta,0,8,0.39,1.0,0.68,0.0,0.02,0,0,0.96,8.2,7.0,0.0,0.0,EGRESADO,1.0,
+S051,2025,1,1,15:30,36-45,Femenino,Newsan,Vigilancia,Mañana,Rotativo,1,9,0.57,0.02,0.18,0.11,0.0,0,0,0.25,9.2,,0.0,4.0,NIVEL 1,0.0,
+S052,2025,1,3,15:30,26-35,Masculino,Newsan,Otro/sin dato,Tarde,Rotativo,1,6,0.31,0.17,0.26,0.71,0.0,0,0,0.83,8.3,5.4,0.0,1.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S053,2026,2,4,15:30,26-35,Masculino,Newsan,Vigilancia,Mañana,Rotativo,1,20,0.8,1.0,0.94,0.12,0.0,0,0,1.0,7.3,7.5,1.0,4.0,,,en curso (sin resultado todavía)
+S054,2025,1,3,15:30,26-35,Masculino,Empresa vinculada,Otro/sin dato,Sin dato,Rotativo,0,7,1.0,0.81,0.23,0.49,0.12,0,0,0.75,7.9,4.7,1.0,6.0,NIVEL 3,0.0,
+S055,2025,1,1,15:30,46+,Femenino,Otro/sin dato,Producción,Mañana,Sin dato,1,8,0.77,,0.71,0.08,0.19,0,0,0.97,6.1,7.7,0.0,1.0,PROMUEVE N2,1.0,
+S056,2026,2,4,15:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Otra planta,1,8,0.95,0.81,0.56,0.05,0.05,0,0,0.14,9.6,7.4,0.0,4.0,,,en curso (sin resultado todavía)
+S057,2025,1,1,12:30,36-45,Masculino,Empresa vinculada,Otro/sin dato,Tarde,Otra planta,0,16,0.56,0.64,1.0,0.52,0.0,0,0,0.93,7.0,8.7,0.0,0.0,PROMUEVE N2,1.0,
+S058,2025,2,4,15:30,26-35,Femenino,Familiar,Producción,Mañana,Otra planta,1,7,0.43,0.15,0.0,0.84,0.01,0,0,0.02,,6.7,0.0,6.0,NIVEL 4,0.0,
+S059,2025,1,3,15:30,18-25,Masculino,Newsan,Producción,Mañana,Misma planta que el cursado,1,8,0.14,0.61,0.18,0.83,0.21,0,0,0.16,,,0.0,6.0,NIVEL 3,0.0,
+S060,2025,2,2,12:30,18-25,Masculino,Otro/sin dato,Vigilancia,Mañana,Sin dato,1,7,0.39,0.4,1.0,,0.0,0,0,0.17,4.1,7.6,1.0,6.0,NIVEL 2,0.0,
+S061,2025,2,2,12:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Rotativo,0,9,0.66,,0.46,0.56,0.0,0,0,0.25,8.8,9.0,2.0,5.0,PROMUEVE N3,1.0,
+S062,2025,1,1,12:30,46+,,Newsan,Producción,Tarde,Sin dato,1,7,0.25,0.26,0.03,0.46,0.13,0,0,0.0,9.2,,1.0,4.0,NIVEL 1,0.0,no inició (sin asistencia hasta el corte)
+S063,2025,1,1,15:30,26-35,Femenino,Newsan,Vigilancia,Tarde,Otra planta,0,20,0.32,0.48,0.97,0.02,0.01,0,0,0.9,9.3,9.8,0.0,0.0,NIVEL 3 2026,,situación no estándar (revisar a mano)
+S064,2025,1,3,15:30,36-45,Femenino,Newsan,Producción,Mañana,Sin dato,1,8,0.85,0.24,0.73,0.45,0.01,0,0,0.08,,,0.0,5.0,NIVEL 3,0.0,
+S065,2025,1,3,12:30,26-35,Femenino,Newsan,Producción,Noche,Sin dato,1,16,0.78,0.29,1.0,0.15,0.05,0,0,1.0,8.2,8.5,0.0,0.0,PROMUEVE N4,1.0,
+S066,2025,1,3,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Noche,Sin dato,0,9,0.76,0.6,0.97,,0.28,0,0,0.89,6.1,6.9,3.0,4.0,PROMUEVE N4,1.0,
+S067,2025,1,1,15:30,26-35,Masculino,Empresa vinculada,Producción,Mañana,Otra planta,0,9,0.95,1.0,0.95,0.13,0.26,0,0,0.97,8.0,7.1,0.0,0.0,PROMUEVE N2,1.0,
+S068,2025,1,1,12:30,18-25,Femenino,Newsan,Producción,Noche,Sin dato,1,8,0.7,0.67,0.16,0.77,0.04,0,0,0.17,,5.7,0.0,6.0,NIVEL 1,0.0,
+S069,2026,2,4,15:30,18-25,Femenino,Newsan,Producción,Mañana,Otra planta,0,20,0.79,0.77,1.0,0.13,0.0,0,0,0.92,5.8,8.2,0.0,1.0,,,en curso (sin resultado todavía)
+S070,2025,2,2,15:30,26-35,Masculino,Newsan,Producción,Tarde,Misma planta que el cursado,1,7,0.56,0.97,0.26,0.5,0.0,0,0,0.02,7.5,7.9,0.0,5.0,NIVEL 2,0.0,
+S071,2025,2,4,12:30,18-25,Masculino,Newsan,Producción,Sin dato,Misma planta que el cursado,0,8,0.0,0.1,0.12,0.32,0.13,0,0,0.13,,4.4,0.0,5.0,NIVEL 4,0.0,
+S072,2026,2,4,15:30,18-25,Masculino,Empresa vinculada,Otro/sin dato,Mañana,Rotativo,0,20,0.22,0.98,0.61,0.82,0.0,0,0,0.94,8.6,6.1,2.0,5.0,,,en curso (sin resultado todavía)
+S073,2026,1,3,15:30,26-35,Femenino,Empresa vinculada,Producción,Mañana,Otra planta,1,5,0.46,0.93,0.41,0.23,0.01,0,0,0.09,8.4,7.6,0.0,0.0,PROMUEVE N4,1.0,
+S074,2025,2,2,15:30,46+,Masculino,Newsan,Producción,Mañana,Rotativo,1,10,0.87,0.97,1.0,0.19,0.0,0,0,1.0,8.4,6.1,0.0,1.0,PROMUEVE N3,1.0,
+S075,2026,2,4,15:30,46+,Femenino,Newsan,Producción,Mañana,Otra planta,0,20,0.86,0.17,0.85,0.07,0.02,0,0,1.0,7.9,8.2,0.0,0.0,,,en curso (sin resultado todavía)
+S076,2026,1,3,15:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Rotativo,0,8,1.0,0.37,0.65,0.02,0.03,0,0,0.63,7.1,7.5,1.0,0.0,PROMUEVE N4,1.0,
+S077,2025,1,1,15:30,46+,Masculino,Familiar,Producción,Tarde,Otra planta,0,16,0.37,,0.27,0.04,0.19,0,0,0.0,8.1,3.1,0.0,6.0,NIVEL 1,0.0,
+S078,2025,1,3,15:30,36-45,Masculino,Newsan,Producción,Mañana,Otra planta,0,8,0.28,0.21,0.0,0.47,0.0,0,0,0.0,7.1,,0.0,5.0,NIVEL 3,0.0,
+S079,2025,1,3,12:30,46+,Masculino,Empresa vinculada,Producción,Mañana,Rotativo,1,11,1.0,0.95,0.58,0.04,0.04,0,0,0.92,7.8,7.0,1.0,0.0,PROMUEVE N4,1.0,
+S080,2025,1,1,15:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Sin dato,0,9,0.81,0.68,0.99,0.21,0.0,0,0,0.86,8.8,7.4,0.0,5.0,PROMUEVE N2,1.0,
+S081,2026,1,3,15:30,46+,Femenino,Newsan,Vigilancia,Noche,Sin dato,1,8,0.54,0.63,0.56,0.5,0.04,0,0,0.91,8.5,8.5,0.0,3.0,PROMUEVE N4,1.0,
+S082,2026,2,4,15:30,26-35,Masculino,Empresa vinculada,Vigilancia,Sin dato,Otra planta,1,20,0.95,0.76,1.0,0.03,0.0,0,0,0.92,9.2,9.3,0.0,1.0,,,en curso (sin resultado todavía)
+S083,2025,2,4,15:30,26-35,Masculino,Otro/sin dato,Vigilancia,Mañana,Otra planta,1,8,0.17,0.3,0.27,0.53,0.24,0,0,0.41,,6.7,0.0,5.0,NIVEL 4,0.0,
+S084,2026,2,4,15:30,46+,Femenino,Newsan,Producción,Noche,Otra planta,0,17,0.47,0.78,1.0,0.58,0.04,0,0,1.0,8.8,7.8,0.0,0.0,,,en curso (sin resultado todavía)
+S085,2025,1,1,15:30,26-35,Femenino,Empresa vinculada,Producción,Noche,Rotativo,0,9,0.99,1.0,0.83,0.45,0.22,0,0,1.0,8.6,7.5,0.0,5.0,PROMUEVE N2,1.0,
+S086,2026,1,3,15:30,26-35,Masculino,Newsan,Producción,Mañana,Rotativo,0,6,0.17,0.96,0.98,0.55,0.06,0,0,0.79,8.0,7.6,0.0,1.0,PROMUEVE N4,1.0,
+S087,2025,2,2,12:30,26-35,Masculino,Empresa vinculada,Vigilancia,Mañana,Sin dato,0,8,0.61,1.0,0.95,0.37,0.14,0,0,0.97,9.8,6.4,1.0,3.0,PROMUEVE N3,1.0,
+S088,2025,2,4,15:30,26-35,Masculino,Empresa vinculada,Producción,Sin dato,Misma planta que el cursado,0,7,0.78,0.72,0.65,0.49,0.14,0,0,0.12,9.0,2.0,0.0,6.0,NIVEL 4,0.0,
+S089,2025,1,1,15:30,26-35,Masculino,Newsan,Otro/sin dato,Sin dato,Sin dato,1,8,0.51,0.94,0.77,0.7,0.0,0,0,0.23,9.6,,2.0,4.0,NIVEL 1,0.0,
+S090,2025,2,4,15:30,18-25,Masculino,Newsan,Producción,Sin dato,Misma planta que el cursado,1,9,,0.1,0.0,0.67,0.0,0,0,0.03,,6.3,0.0,4.0,NIVEL 4,0.0,
+S091,2026,1,3,15:30,46+,Femenino,Empresa vinculada,Producción,Mañana,Rotativo,1,9,0.93,0.4,0.6,0.01,0.02,0,0,0.93,8.7,8.3,0.0,0.0,PROMUEVE N4,1.0,
+S092,2025,2,4,15:30,26-35,Femenino,Empresa vinculada,Producción,Mañana,Sin dato,0,16,0.87,1.0,1.0,0.07,0.22,0,0,0.97,8.6,2.9,2.0,1.0,EGRESADO,1.0,
+S093,2025,1,3,15:30,36-45,Masculino,Familiar,Producción,Mañana,Sin dato,1,9,0.03,0.24,0.44,0.86,0.0,0,0,0.0,,5.5,0.0,5.0,NIVEL 3,0.0,
+S094,2025,1,1,15:30,26-35,Masculino,Empresa vinculada,Producción,Mañana,Otra planta,0,11,0.4,0.93,1.0,0.02,0.01,0,0,0.63,8.3,7.9,0.0,0.0,PROMUEVE N2,1.0,
+S095,2025,1,3,12:30,26-35,Femenino,Empresa vinculada,Otro/sin dato,Mañana,Otra planta,0,0,0.47,0.95,,0.24,0.0,0,0,1.0,8.1,8.7,0.0,0.0,PROMUEVE N4,1.0,
+S096,2025,1,1,15:30,36-45,Masculino,Otro/sin dato,Logística/abastecimiento,Tarde,Rotativo,0,9,1.0,0.97,0.96,0.45,0.15,0,0,0.85,9.4,8.2,0.0,0.0,PROMUEVE N2,1.0,
+S097,2025,2,4,15:30,26-35,Masculino,Empresa vinculada,Vigilancia,Tarde,Sin dato,1,8,0.93,0.44,0.75,0.0,0.31,0,0,0.87,7.9,8.7,1.0,0.0,EGRESADO,1.0,
+S098,2025,2,4,12:30,26-35,Masculino,Newsan,Producción,Mañana,Otra planta,1,0,0.37,0.04,1.0,0.55,0.05,0,0,0.95,7.3,7.6,0.0,5.0,NIVEL 4,0.0,
+S099,2025,2,4,15:30,26-35,Masculino,Newsan,Otro/sin dato,Mañana,Rotativo,0,8,0.62,,0.87,0.41,0.0,0,0,0.93,8.7,6.8,1.0,3.0,EGRESADO,1.0,
+S100,2025,1,1,12:30,46+,Masculino,Empresa vinculada,Vigilancia,Mañana,Otra planta,0,9,0.33,0.71,1.0,0.29,0.0,0,0,0.9,9.0,6.1,0.0,2.0,PROMUEVE N2,1.0,
+S101,2026,1,3,15:30,36-45,Femenino,Newsan,Producción,Mañana,Sin dato,1,0,0.53,0.48,0.5,0.06,0.0,0,0,1.0,8.8,8.3,0.0,0.0,PROMUEVE N4,1.0,
+S102,2026,2,4,15:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Rotativo,0,20,0.96,,0.86,0.67,0.01,0,0,0.82,8.5,10.0,2.0,0.0,,,en curso (sin resultado todavía)
+S103,2025,1,1,15:30,26-35,Masculino,Newsan,Logística/abastecimiento,Mañana,Otra planta,1,16,0.23,0.29,0.73,0.82,0.0,0,0,0.11,8.7,4.7,1.0,4.0,NIVEL 1,0.0,
+S104,2025,1,1,12:30,46+,Masculino,Empresa vinculada,Producción,Sin dato,Sin dato,1,8,0.6,0.54,,0.14,0.15,0,0,0.98,8.2,7.0,0.0,1.0,PROMUEVE N2,1.0,
+S105,2025,1,3,12:30,26-35,Masculino,Newsan,Producción,Mañana,Misma planta que el cursado,1,7,0.87,0.54,0.31,1.0,0.0,0,0,0.18,7.9,,0.0,5.0,NIVEL 3,0.0,
+S106,2025,1,1,15:30,46+,Femenino,Empresa vinculada,Producción,Noche,Sin dato,1,0,0.47,0.63,1.0,,0.01,0,0,0.85,6.6,9.5,2.0,0.0,PROMUEVE N2,1.0,
+S107,2026,2,4,12:30,18-25,Masculino,Empresa vinculada,Producción,Mañana,Rotativo,1,20,0.96,1.0,0.94,0.23,0.0,0,0,0.98,9.3,5.2,0.0,0.0,,,en curso (sin resultado todavía)
+S108,2025,1,3,15:30,46+,Masculino,Empresa vinculada,Vigilancia,Sin dato,Otra planta,1,8,0.82,0.53,0.99,0.42,0.13,0,0,0.86,8.2,6.8,2.0,0.0,PROMUEVE N4,1.0,
+S109,2025,2,2,12:30,26-35,Femenino,Newsan,Otro/sin dato,Mañana,Misma planta que el cursado,1,8,0.12,0.0,0.03,0.69,0.13,0,0,0.21,7.8,,0.0,6.0,NIVEL 2,0.0,
+S110,2026,1,3,15:30,18-25,Masculino,Empresa vinculada,Vigilancia,Noche,Otra planta,0,8,0.51,0.96,0.9,0.26,0.0,0,0,0.98,7.8,8.5,0.0,3.0,PROMUEVE N4,1.0,
+S111,2025,1,3,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Mañana,Otra planta,1,9,1.0,0.62,0.53,0.08,0.1,0,0,1.0,7.7,8.5,1.0,0.0,PROMUEVE N4,1.0,
+S112,2025,1,3,15:30,26-35,Masculino,Newsan,Vigilancia,Mañana,Sin dato,0,8,1.0,1.0,0.19,0.04,0.04,0,0,0.94,8.0,8.0,1.0,0.0,PROMUEVE N4,1.0,
+S113,2025,1,3,15:30,46+,Masculino,Empresa vinculada,Otro/sin dato,Sin dato,Sin dato,1,9,0.51,0.95,0.98,0.29,0.01,0,0,0.0,6.9,,0.0,2.0,NIVEL 3,0.0,
+S114,2026,2,4,15:30,26-35,Femenino,Empresa vinculada,Producción,Mañana,Rotativo,0,20,0.98,0.87,0.32,0.0,0.07,0,0,0.26,7.9,7.7,0.0,1.0,,,en curso (sin resultado todavía)
+S115,2025,1,1,15:30,18-25,Femenino,Familiar,Vigilancia,Mañana,Misma planta que el cursado,0,6,0.31,0.54,0.12,0.87,0.02,0,0,0.0,,,0.0,3.0,NIVEL 1,0.0,
+S116,2026,2,4,15:30,26-35,Femenino,Empresa vinculada,Vigilancia,Mañana,Rotativo,1,20,0.61,0.99,0.92,0.7,0.02,0,0,0.78,6.8,6.3,1.0,0.0,,,en curso (sin resultado todavía)
+S117,2025,1,3,15:30,46+,Femenino,Newsan,Otro/sin dato,Noche,Misma planta que el cursado,1,8,0.75,0.66,0.17,0.99,0.06,0,0,0.37,7.3,,1.0,6.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S118,2026,1,3,15:30,36-45,Femenino,Empresa vinculada,Vigilancia,Mañana,Otra planta,0,9,0.42,0.7,1.0,,,0,0,0.79,9.2,8.6,1.0,3.0,PROMUEVE N4,1.0,
+S119,2025,1,1,15:30,18-25,Femenino,Newsan,Vigilancia,Tarde,Rotativo,1,8,0.82,0.61,0.92,0.39,0.0,0,0,1.0,9.3,8.3,0.0,0.0,PROMUEVE N2,1.0,
+S120,2025,2,2,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Sin dato,Otra planta,0,10,0.75,0.81,0.49,0.64,0.0,0,0,1.0,7.6,6.2,0.0,0.0,PROMUEVE N3,1.0,no inició (sin asistencia hasta el corte)
+S121,2025,1,1,15:30,46+,Masculino,Newsan,Vigilancia,Mañana,Sin dato,1,9,0.12,0.82,1.0,0.12,0.0,0,0,1.0,8.5,8.2,0.0,0.0,PROMUEVE N2,1.0,
+S122,2025,1,1,12:30,18-25,Femenino,Newsan,Otro/sin dato,Mañana,Otra planta,0,11,0.96,0.67,0.66,0.05,0.07,0,0,0.99,7.9,8.6,1.0,3.0,PROMUEVE N2,1.0,
+S123,2026,2,4,12:30,46+,Masculino,Newsan,Vigilancia,Mañana,Rotativo,0,20,1.0,0.91,1.0,0.53,0.0,0,0,1.0,8.3,9.6,1.0,0.0,,,en curso (sin resultado todavía)
+S124,2025,1,1,15:30,46+,Femenino,Newsan,Vigilancia,Noche,Sin dato,0,9,0.67,0.88,1.0,0.02,0.0,0,0,0.93,8.3,8.7,0.0,1.0,PROMUEVE N2,1.0,
+S125,2026,2,4,15:30,36-45,Femenino,Empresa vinculada,Vigilancia,Tarde,Rotativo,0,20,0.4,0.64,0.59,0.0,0.04,0,0,0.15,9.9,9.0,1.0,0.0,,,en curso (sin resultado todavía)
+S126,2025,2,4,15:30,18-25,Masculino,Newsan,Otro/sin dato,Tarde,Sin dato,0,9,0.48,0.35,0.29,0.43,0.0,0,0,0.23,,4.9,0.0,5.0,NIVEL 4,0.0,
+S127,2025,1,1,15:30,26-35,Femenino,Empresa vinculada,Vigilancia,Mañana,Otra planta,1,8,0.83,0.96,0.11,0.0,0.0,0,0,0.98,5.9,7.3,0.0,2.0,PROMUEVE N2,1.0,
+S128,2025,1,1,15:30,18-25,Masculino,Newsan,Vigilancia,Sin dato,Sin dato,1,6,0.5,0.02,0.7,0.0,0.04,0,0,0.0,,,0.0,5.0,NIVEL 1,0.0,
+S129,2025,1,3,15:30,26-35,Femenino,Empresa vinculada,Producción,Mañana,Otra planta,0,8,0.4,1.0,0.68,0.0,0.0,0,0,0.93,7.4,7.2,2.0,2.0,PROMUEVE N4,1.0,
+S130,2025,1,1,12:30,26-35,Masculino,Newsan,Logística/abastecimiento,Tarde,Sin dato,0,11,0.67,1.0,0.65,0.61,0.0,0,0,0.28,,4.3,1.0,4.0,NIVEL 1,0.0,
+S131,2025,1,3,12:30,18-25,Masculino,Newsan,Vigilancia,Mañana,Rotativo,0,8,0.87,0.97,1.0,0.23,0.12,0,0,0.9,6.1,6.7,0.0,3.0,PROMUEVE N4,1.0,
+S132,2025,1,3,15:30,18-25,Masculino,Newsan,Otro/sin dato,Mañana,Misma planta que el cursado,1,9,0.53,1.0,0.61,0.03,0.0,0,0,0.0,8.8,6.7,,6.0,NIVEL 3,0.0,
+S133,2025,2,4,15:30,26-35,Masculino,Newsan,Logística/abastecimiento,Mañana,Otra planta,1,7,0.06,0.28,0.41,0.78,0.1,0,0,0.0,7.1,6.2,1.0,5.0,NIVEL 4,0.0,
+S134,2025,1,3,15:30,,Femenino,Empresa vinculada,Producción,Mañana,Otra planta,0,10,0.0,0.39,0.8,0.61,0.02,0,0,0.65,,5.4,1.0,6.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S135,2026,2,4,15:30,46+,Femenino,Newsan,Vigilancia,Mañana,Sin dato,0,20,0.51,0.95,0.37,0.27,0.01,0,0,1.0,6.8,3.3,0.0,0.0,,,en curso (sin resultado todavía)
+S136,2026,2,4,12:30,18-25,Masculino,Empresa vinculada,Vigilancia,Mañana,Sin dato,1,17,0.82,0.47,0.56,0.09,0.01,0,0,1.0,7.8,8.3,0.0,0.0,,,en curso (sin resultado todavía)
+S137,2025,1,3,12:30,18-25,Masculino,Newsan,Otro/sin dato,Sin dato,Otra planta,0,10,0.33,0.59,0.39,0.0,0.0,0,0,0.36,,,0.0,5.0,NIVEL 3,0.0,
+S138,2025,1,3,15:30,18-25,Femenino,Newsan,Producción,Tarde,Sin dato,1,8,0.36,0.22,1.0,0.43,0.29,0,0,0.29,,,1.0,4.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S139,2026,2,4,15:30,26-35,Masculino,Familiar,Vigilancia,Mañana,Rotativo,0,17,1.0,0.92,1.0,0.0,0.07,0,0,1.0,8.2,9.0,2.0,4.0,,,en curso (sin resultado todavía)
+S140,2026,1,3,15:30,36-45,Masculino,Empresa vinculada,Producción,Mañana,Sin dato,0,9,0.99,0.75,0.5,0.33,0.11,0,0,1.0,8.2,5.3,1.0,2.0,PROMUEVE N4,1.0,
+S141,2026,1,3,15:30,36-45,Femenino,Newsan,Vigilancia,Tarde,Otra planta,0,9,0.8,0.44,,0.31,0.06,0,0,1.0,8.8,9.7,1.0,0.0,PROMUEVE N4,1.0,
+S142,2025,2,4,15:30,36-45,Masculino,Empresa vinculada,Vigilancia,Mañana,Sin dato,0,8,0.17,,0.02,0.68,0.0,0,0,0.35,9.0,1.6,2.0,5.0,NIVEL 4,0.0,
+S143,2025,1,3,15:30,36-45,Masculino,Newsan,Vigilancia,Sin dato,Rotativo,1,9,0.95,0.69,1.0,0.0,0.02,0,0,0.91,7.6,6.4,0.0,3.0,PROMUEVE N4,1.0,
+S144,2025,2,4,12:30,36-45,Masculino,Newsan,Producción,Mañana,Otra planta,1,7,0.3,0.94,0.73,0.56,0.17,0,0,0.2,6.5,,1.0,6.0,NIVEL 4,0.0,
+S145,2025,2,4,15:30,36-45,Femenino,Newsan,Otro/sin dato,Tarde,Sin dato,1,9,0.72,1.0,0.17,0.0,0.0,0,0,0.64,7.7,7.1,1.0,0.0,EGRESADO,1.0,
+S146,2025,2,4,15:30,46+,Masculino,Empresa vinculada,Vigilancia,Mañana,Rotativo,0,8,0.81,0.57,0.58,0.52,0.21,0,0,1.0,8.7,7.1,1.0,5.0,EGRESADO,1.0,
+S147,2025,1,1,15:30,18-25,Femenino,Empresa vinculada,Otro/sin dato,Mañana,Sin dato,1,8,0.04,0.21,0.66,0.51,0.15,0,0,0.04,,6.1,0.0,5.0,NIVEL 1,0.0,
+S148,2025,1,1,12:30,26-35,Masculino,Empresa vinculada,Producción,Mañana,Misma planta que el cursado,0,16,0.77,,0.05,0.16,0.07,0,0,0.5,,9.0,0.0,5.0,NIVEL 1,0.0,
+S149,2025,1,3,15:30,26-35,Masculino,Familiar,Producción,Tarde,Rotativo,0,11,,0.4,0.98,0.1,,0,0,0.37,8.8,9.0,1.0,1.0,PROMUEVE N4,1.0,
+S150,2025,1,1,15:30,26-35,Masculino,Otro/sin dato,Vigilancia,Sin dato,Otra planta,1,11,0.74,0.51,0.56,0.06,0.0,0,0,1.0,8.2,8.5,0.0,0.0,PROMUEVE N2,1.0,
+S151,2025,1,3,15:30,26-35,Masculino,Newsan,Vigilancia,Mañana,Rotativo,0,9,0.39,1.0,0.19,0.45,0.33,0,0,0.8,8.8,6.3,0.0,2.0,PROMUEVE N4,1.0,
+S152,2026,1,3,15:30,26-35,Masculino,Otro/sin dato,Vigilancia,Mañana,Otra planta,1,11,0.27,0.09,0.22,0.43,0.0,0,0,0.0,6.7,,1.0,6.0,NIVEL 3,0.0,no inició (sin asistencia hasta el corte)
+S153,2025,1,3,15:30,36-45,Masculino,Newsan,Otro/sin dato,Tarde,Misma planta que el cursado,1,9,0.25,0.32,0.99,1.0,,0,0,0.11,1.0,7.5,0.0,0.0,NIVEL 3,0.0,

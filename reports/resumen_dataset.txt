@@ -1,0 +1,38 @@
+RESUMEN DEL DATASET (2025-2026)
+Registros estudiante-nivel totales: 153
+Estudiantes únicos: 83
+
+Exclusiones:
+motivo_exclusion
+(incluido en el modelo)                      121
+en curso (sin resultado todavía)              19
+no inició (sin asistencia hasta el corte)     12
+situación no estándar (revisar a mano)         1
+
+Registros para el modelo: 121  |  estudiantes únicos: 75
+Distribución de la variable objetivo (1 = acredita):
+acredita
+0.0    47
+1.0    74
+
+Por cuatrimestre y nivel:
+                   registros  acreditan
+anio cuatri nivel                      
+2025 1      1             23       15.0
+            3             34       19.0
+     2      2             18       11.0
+            4             24       11.0
+2026 1      3             22       18.0
+(de los que no iniciaron antes del corte, 4 empezaron a asistir después)
+
+Filas de notas sin emparejar con asistencia: 27 (ver nombres_sin_emparejar.csv)
+
+Valores faltantes por variable (en el modelo):
+rango_edad                3
+sexo                      3
+pct_asist_electronica     5
+pct_asist_general         1
+pct_tps_entregados        1
+promedio_tps             14
+promedio_1p              17
+materias_1p_menor6        1

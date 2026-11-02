@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "teps"
+version = "0.0.1"
+description = "Prediccion temprana de acreditacion en un programa de terminalidad secundaria para adultos trabajadores (TEPS - Tierra del Fuego)"
+authors = [
+  { name = "Gabriela Soledad Bacchiani" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+requires-python = "~=3.11.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["teps"]
+include = ["pyproject.toml", "teps/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["teps"]
+force-sort-within-sections = true
+
