@@ -12,7 +12,7 @@ El **Programa de Terminalidad de Educación Profesional Secundaria (TEPS)** perm
 
 **Objetivo:** desarrollar un modelo de **clasificación binaria** que, con la información disponible al **1° cierre de notas parcial** (asistencia, entrega de TPs y 1° nota de cada materia, más datos personales y laborales), anticipe qué estudiantes acreditarán el nivel, para orientar intervenciones tempranas.
 
-## Dónde está cada cosa
+## Estructura
 
 | Qué | Dónde |
 |---|---|
