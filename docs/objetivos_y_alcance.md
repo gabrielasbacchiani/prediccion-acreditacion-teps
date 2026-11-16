@@ -4,8 +4,6 @@
 
 *Predicción temprana de acreditación en un Programa de Terminalidad de Educación Profesional Secundaria para adultos*
 
-Este documento recoge la propuesta presentada en la Entrega 1 y, al final, las precisiones incorporadas a partir de la devolución del docente.
-
 ## DESCRIPCIÓN Y CONTEXTO DEL PROYECTO
 
 Este proyecto de aprendizaje automático se basa en mi experiencia como coordinadora pedagógica de un Proyecto de Terminalidad de Educación Profesional Secundaria (T.E.P.S.), que se dicta desde el año 2022 dentro de las instalaciones de la Empresa Newsan. Es un proyecto que depende de la Dirección Provincial de Educación Técnica de Tierra del Fuego (Ministerio de Educación TDF), en asociación con un ente privado como lo es la empresa Newsan; la propuesta pedagógica y el personal docente dependen del Ministerio de Educación, las instalaciones físicas son proporcionadas por la empresa.
@@ -46,7 +44,7 @@ Si bien hay muchos trabajos similares en cuanto a predecir el riesgo de abandono
 
 ### OBJETIVOS ESPECÍFICOS
 
-- Construir una base de datos unificada y anonimizada a partir de los registros 2022 – 2026, con información recolectada de las fichas de inscripción, registros de asistencia por clases y calificaciones.
+- Construir una base de datos unificada y anonimizada a partir de los registros 2025 – 2026, con información recolectada de las fichas de inscripción, registros de asistencia por clases y calificaciones.
 
 - Analizar el recorrido realizado entre la inscripción, el inicio de clases, acreditación y egreso, los momentos de abandono y sus motivos.
 
@@ -62,7 +60,7 @@ Si bien hay muchos trabajos similares en cuanto a predecir el riesgo de abandono
 
 Podemos especificar que se trata de un problema de clasificación binaria supervisada, en el que la variable objetivo es si el estudiante acredita el nivel (sí/no). La unidad de análisis será de una fila por estudiante y por nivel cursado.
 
-El modelo se entrenará con los registros de las cohortes anteriores (2022 – 2025), utilizando solo la información disponible hasta la 1° nota parcial de cada cuatrimestre. Una vez entrenado, se aplicará a los estudiantes que actualmente cursan nivel 4. Esto se debe a que si utilizáramos datos del final de la cursada no se podría intervenir y además se produciría una fuga de datos (el modelo ya contaría con la información sobre quienes acreditaron o no).
+El modelo se entrenará con los registros de las cohortes anteriores (2025), utilizando solo la información disponible hasta la 1° nota parcial de cada cuatrimestre. Una vez entrenado, se aplicará a los estudiantes que actualmente cursan nivel 4. Esto se debe a que si utilizáramos datos del final de la cursada no se podría intervenir y además se produciría una fuga de datos (el modelo ya contaría con la información sobre quienes acreditaron o no).
 
 ## MODELOS DE APRENDIZAJE AUTOMÁTICO
 
@@ -84,7 +82,7 @@ En el repositorio no se guardarán datos personales de ningún estudiante.
 
 Es importante destacar que el uso de este modelo tiene un carácter estrictamente pedagógico, las predicciones no se compartirán con la empresa ni tendrán injerencia en decisiones laborales, ya que el objetivo de este modelo es que funcione como un sistema de alertas tempranas que permitan la intervención para evitar la deserción, pero no para etiquetar a los estudiantes.
 
-## Precisiones incorporadas a partir de la devolución de la Entrega 1
+## Precisiones incorporadas a partir de la devolución del docente
 
 - **Acreditar, no acreditar y abandonar.** El modelo predice la acreditación entre quienes **iniciaron** la cursada. El **no inicio** (inscriptos que nunca asistieron) queda para el análisis descriptivo, porque ocurre antes del momento de predicción. Dentro de "no acredita" quedan tanto quienes abandonan como quienes siguen con materias pendientes; esa diferencia se tendrá en cuenta al interpretar los resultados.
 - **Condición de acreditación.** Un estudiante acredita el nivel si aprueba las 6 materias (calificación definitiva de 6 o más) al **cierre final del cuatrimestre**, incluido el recuperatorio de ese cuatrimestre. En las planillas figura como *PROMUEVE* o *EGRESADO*.
